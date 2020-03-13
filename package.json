@@ -1,7 +1,7 @@
 {
-  "name": "@cuongduongmanh/react-native-google-recaptcha",
+  "name": "@cuongdm1508/react-native-google-recaptcha",
   "description": "Google captcha v2 package",
-  "author": "cuongduongmanh",
+  "author": "cuongdm1508",
   "repository": {
     "type": "git",
     "url": "https://github.com/cuongduongmanh/react-native-google-recaptcha"
