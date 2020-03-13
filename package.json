@@ -4,11 +4,11 @@
   "author": "cuongdm1508",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cuongduongmanh/react-native-google-recaptcha"
+    "url": "git@github.com:cuongduongmanh/react-native-google-recaptcha.git"
   },
   "main": "index.js",
   "license": "MIT",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
