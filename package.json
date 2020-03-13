@@ -4,7 +4,7 @@
   "author": "cuongduongmanh",
   "repository": {
     "type" : "git",
-    "url": "ssh://git@github.com:cuongduongmanh/react-native-google-recaptcha.git",
+    "url": "ssh://git@github.com:cuongduongmanh/react-native-google-recaptcha.git"
   },
   "main": "index.js",
   "license": "MIT",
