@@ -1,9 +1,14 @@
 {
   "name": "@cuongduongmanh/react-native-google-recaptcha",
   "description": "Google captcha v2 package",
-  "author": "cuongdm",
+  "author": "cuongduongmanh",
+  "repository": {
+    "type" : "git",
+    "url": "ssh://git@github.com:cuongduongmanh/react-native-google-recaptcha.git",
+  },
+  "main": "index.js",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -15,7 +20,8 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "prop-types": "latest"
+    "prop-types": "latest",
+    "react-native-modal": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
@@ -31,6 +37,6 @@
     "preset": "react-native"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
