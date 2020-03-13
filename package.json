@@ -1,7 +1,10 @@
 {
-  "name": "ReactNativeReCaptcha",
+  "name": "@cuongduongmanh/react-native-google-recaptcha",
+  "description": "Google captcha v2 package",
+  "author": "cuongdm",
+  "license": "MIT",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -26,5 +29,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
