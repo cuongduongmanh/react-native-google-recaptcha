@@ -3,12 +3,12 @@
   "description": "Google captcha v2 package",
   "author": "cuongduongmanh",
   "repository": {
-    "type" : "git",
+    "type": "git",
     "url": "https://github.com/cuongduongmanh/react-native-google-recaptcha"
   },
   "main": "index.js",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -18,9 +18,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "prop-types": "latest",
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "prop-types": "latest",
     "react-native-modal": "latest"
   },
   "devDependencies": {
